@@ -1,1 +1,3 @@
 https://pypi.org/project/opencv-python/
+Cv2 is the module import name for opencv-python, "Unofficial pre-built CPU-only OpenCV packages for Python". 
+The traditional OpenCV has many complicated steps involving building the module from scratch, which is unnecessary.

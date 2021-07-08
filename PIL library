@@ -1,0 +1,3 @@
+https://pypi.org/project/Pillow/#files
+PIL is the Python Imaging Library which provides the python interpreter with image editing capabilities.
+The Image module provides a class with the same name which is used to represent a PIL image.
